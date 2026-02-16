@@ -1,0 +1,4 @@
+D:\تسليم c#\task7csharp\task7csharp\obj\Debug\net5.0\task7csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\تسليم c#\task7csharp\task7csharp\obj\Debug\net5.0\task7csharp.AssemblyInfoInputs.cache
+D:\تسليم c#\task7csharp\task7csharp\obj\Debug\net5.0\task7csharp.AssemblyInfo.cs
+D:\تسليم c#\task7csharp\task7csharp\obj\Debug\net5.0\task7csharp.csproj.CoreCompileInputs.cache
